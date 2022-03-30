@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <h3>RECENT PROJECTS</h3>
 <h5>Bayer</h5>
-<img src="https://i.hurimg.com/i/hdn/75/0x0/6229d8b84e3fe125a0c31a57.jpg" />
+<img src="https://i.hurimg.com/i/hdn/75/0x0/6229d8b84e3fe125a0c31a57.jpg" width="200px" />
 <br />
 <ol>
   <li><a href="https://www.berocca.pk/" style="color: green;">Berocca</a></li>
