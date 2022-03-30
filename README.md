@@ -23,6 +23,16 @@ Here are some ideas to get you started:
 - ⚡ I am also learning Digital Art! You can check me Art on my Instagram <a href="https://www.instagram.com/muqtadirbillahmusab/">Instagram</a>
 
 
+<h3>RECENT PROJECTS</h3>
+<h5>Bayer</h5>
+<ol>
+  <li><a href="https://www.berocca.pk/" style="color: green;">Berocca</a></li>
+  <li><a href="https://www.rennie.pk/" style="color: green;">Rennie</a></li>
+  <li><a href="https://www.redoxon.pk/" style="color: green;">Redoxon</a></li>
+</ol>
+
+<br />
+<br />
 
 ![Muqtadir's github stats](https://github-readme-stats.vercel.app/api?username=muqtadirbillah&show_icons=true&hide_border=true)
 
