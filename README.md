@@ -30,7 +30,11 @@ Here are some ideas to get you started:
 <br />
 <p><b>Products:</b></p>
 <ol>
-  <li><a href="https://www.berocca.pk/" style="color: green;">Berocca</a></li>
+  <li>
+    <b>Berocca</b>
+    <p>erocca is a brand of effervescent drink and vitamin tablets containing B vitamins and vitamin C, manufactured by Bayer. Berocca was originally established in Switzerland in 1969 by Roche, and is available in a number of countries worldwide.</p>
+    Project link: <a href="https://www.berocca.pk/" style="color: green;">Link</a>
+  </li>
   <li><a href="https://www.rennie.pk/" style="color: green;">Rennie</a></li>
   <li><a href="https://www.redoxon.pk/" style="color: green;">Redoxon</a></li>
 </ol>
