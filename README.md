@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 <h5>Bayer</h5>
 <img src="https://i.hurimg.com/i/hdn/75/0x0/6229d8b84e3fe125a0c31a57.jpg" width="200px" />
 <p>Bayer AG is a German multinational pharmaceutical and life sciences company and one of the largest pharmaceutical companies in the world. Headquartered in Leverkusen, Bayer's areas of business include pharmaceuticals; consumer healthcare products, agricultural chemicals, seeds and biotechnology products.</p>
-<br />
 <p><b>Products:</b></p>
 <ol>
   <li>
