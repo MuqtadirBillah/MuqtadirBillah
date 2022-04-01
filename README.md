@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <li>
     <b>Redoxon</b>
     <p>Redoxon®'s range of supplements contain vitamins and minerals including Vitamin C, D and Zinc to help keep your immune system – your body’s natural protector – on top form.</p>
-    Project link: <a href="https://www.redexon.pk/" style="color: green;">Link</a>
+    Project link: <a href="https://www.redoxon.pk/" style="color: green;">Link</a>
   </li>
 </ol>
 
