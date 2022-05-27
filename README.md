@@ -55,7 +55,7 @@ Here are some ideas to get you started:
   <tr>
     <td style='width: 50%;'>
       <div>
-        <img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Ffiverr-logo%2F&psig=AOvVaw1UInmF24fb30BOLQ7BOsEJ&ust=1653758522752000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDJht6YgPgCFQAAAAAdAAAAABAJ' width: 100% />
+        [<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Ffiverr-logo%2F&psig=AOvVaw1UInmF24fb30BOLQ7BOsEJ&ust=1653758522752000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDJht6YgPgCFQAAAAAdAAAAABAJ' width: 100% />](https://logos-world.net/wp-content/uploads/2020/12/Fiverr-Logo.png)
       </div>
     </td>
   </tr>
