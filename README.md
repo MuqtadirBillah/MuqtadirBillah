@@ -53,10 +53,9 @@ Here are some ideas to get you started:
 <!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
 <table>
   <tr>
-    <td>
+    <td style='width: 50%;'>
       <div>
-        <img src='https://raw.githubusercontent.com/MuqtadirBillah/Durian/main/aa.png)' />
-        <button>Comment</button>
+        <img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Ffiverr-logo%2F&psig=AOvVaw1UInmF24fb30BOLQ7BOsEJ&ust=1653758522752000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDJht6YgPgCFQAAAAAdAAAAABAJ' width: 100% />
       </div>
     </td>
   </tr>
