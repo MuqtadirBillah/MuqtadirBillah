@@ -51,50 +51,16 @@ Here are some ideas to get you started:
 
 <h2>Fiverr Profile</h2>
 <!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
-
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/musababbasi rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-d79671b1-6582-4d2b-bad6-603cb446b21f' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >musababbasi</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'>About me: 
-
-I have a passion for creating brilliant ideas and transforming them into smart, well-designed, innovative digital experiences. My objective is to ensure to provide best-in-class innovative digital solutions for my clients.
-
-
-Expertise:
-
-Website Development:
-React JS
-HTML
-CSS
-SASS
-Bootstrap
-ASP .Net MVC
-Node JS
-MSSQL
-MySQL
-Mongodb
-
-Content Writing:
-Technical Blog and Article Writing
-Web Content Writing
-Proposal Writing
-Essay Writing
-
-Graphic Designing:
-Logo Designing
-Website Banner Designing
-Image Slicing
-
-Whatever you want to be done, I can help you to achieve your goals.</div>
-        </div>
-    </a>
-</div>
-
-![<script id='fiverr-seller-widget-script-d79671b1-6582-4d2b-bad6-603cb446b21f' src='https://widgets.fiverr.com/api/v1/seller/musababbasi?widget_id=d79671b1-6582-4d2b-bad6-603cb446b21f' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>]
+<table>
+  <tr>
+    <td>
+      <div>
+        <img src='![image](https://user-images.githubusercontent.com/50065073/170749185-a8c3cb20-7f06-4420-ab97-81089c97612d.png)' alt='fiverr-img' />
+        <button><img src='![image](https://user-images.githubusercontent.com/50065073/170749744-c8d26ff3-e746-451c-b732-16090d80ce53.png)' alt='fiverr-button' /></button>
+      </div>
+    </td>
+  </tr>
+</table>
 
 
 <br />
