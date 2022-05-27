@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ I am also learning Digital Art! You can check me Art on my Instagram <a href="https://www.instagram.com/muqtadirbillahmusab/">Instagram</a>
 
 
-<h3>RECENT PROJECTS</h3>
+<h2>RECENT PROJECTS</h2>
 <h5>Bayer</h5>
 <img src="https://i.hurimg.com/i/hdn/75/0x0/6229d8b84e3fe125a0c31a57.jpg" width="200px" />
 <p>Bayer AG is a German multinational pharmaceutical and life sciences company and one of the largest pharmaceutical companies in the world. Headquartered in Leverkusen, Bayer's areas of business include pharmaceuticals; consumer healthcare products, agricultural chemicals, seeds and biotechnology products.</p>
@@ -45,6 +45,57 @@ Here are some ideas to get you started:
     Project link: <a href="https://www.redoxon.pk/" style="color: green;">Link</a>
   </li>
 </ol>
+
+<br />
+<br />
+
+<h2>Fiverr Profile</h2>
+<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
+
+<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
+     <a itemprop='url' href=https://www.fiverr.com/musababbasi rel="nofollow" target="_blank" style='display: inline-block;'>
+        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-d79671b1-6582-4d2b-bad6-603cb446b21f' itemprop='contentURL' style='display: none;'></div>
+        <div id='fiverr-widget-seller-data' style='display: none;'>
+            <div itemprop='name' >musababbasi</div>
+            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
+            <div itemprop='jobtitle'>Seller</div>
+            <div itemprop='description'>About me: 
+
+I have a passion for creating brilliant ideas and transforming them into smart, well-designed, innovative digital experiences. My objective is to ensure to provide best-in-class innovative digital solutions for my clients.
+
+
+Expertise:
+
+Website Development:
+React JS
+HTML
+CSS
+SASS
+Bootstrap
+ASP .Net MVC
+Node JS
+MSSQL
+MySQL
+Mongodb
+
+Content Writing:
+Technical Blog and Article Writing
+Web Content Writing
+Proposal Writing
+Essay Writing
+
+Graphic Designing:
+Logo Designing
+Website Banner Designing
+Image Slicing
+
+Whatever you want to be done, I can help you to achieve your goals.</div>
+        </div>
+    </a>
+</div>
+
+<script id='fiverr-seller-widget-script-d79671b1-6582-4d2b-bad6-603cb446b21f' src='https://widgets.fiverr.com/api/v1/seller/musababbasi?widget_id=d79671b1-6582-4d2b-bad6-603cb446b21f' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
+
 
 <br />
 <br />
