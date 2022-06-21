@@ -11,7 +11,7 @@
 
 <br />
 
-Here are some ideas to get you started:
+About:
 
 - 🔭 I’m currently working as a Website Developer
 - 🌱 I’m currently learning Python
