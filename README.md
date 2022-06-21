@@ -13,6 +13,14 @@
 
 About:
 
+A total of 5 billion people around the world use the internet today – equivalent to 63 percent of the world's total population.
+
+As the number of users increases, more ideas and opportunities enter the internet world. Being a computer science student, I am always curious about technological innovations and the benefits we get from them. I identify myself as a beginner in the information and technology field having sound knowledge of website design, website development, and client interaction. I like to engage myself in problems that will eventually get solved and teach me something new.
+
+I work as a Part-time website developer and in my leisure time, I freelance on multiple platforms like Fiverr and Upwork. I am a 5-star rated Fiverr seller and expect to achieve a Level One seller badge.
+
+You can visit my LinkedIn profile at [https://github.com/MuqtadirBillah](https://www.linkedin.com/in/muqtadir-billah-musab-abbasi/) alternatively you also send me an email at abbasimuqtadir@gmail.com
+
 - 🔭 I’m currently working as a Website Developer
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Website Development projects
