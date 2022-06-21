@@ -11,7 +11,7 @@
 
 <br />
 
-About:
+<h2>About:</h2>
 
 A total of 5 billion people around the world use the internet today – equivalent to 63 percent of the world's total population.
 
