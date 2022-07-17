@@ -79,5 +79,5 @@ https://pure-springs-15211.herokuapp.com/services
 
 ![Muqtadir's github stats](https://github-readme-stats.vercel.app/api?username=muqtadirbillah&show_icons=true&hide_border=true)
 
-https://camo.githubusercontent.com/a37b7f51469b61c7d2909c30177ef08ea2bef94dd921b76ee59ce54725b889f5/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d6174747670323126
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuqtadirBillah)](https://git.io/streak-stats)
 
