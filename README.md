@@ -131,3 +131,6 @@ Link: <a target="_blank" href="https://www.gradetuitionacademy.com">Grade Tuitio
 <h3>Profile Analytics</h3>
 
 ![Muqtadir's github stats](https://github-readme-stats.vercel.app/api?username=muqtadirbillah&show_icons=true&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuqtadirBillah&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
