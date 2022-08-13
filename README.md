@@ -34,7 +34,7 @@ You can visit my LinkedIn profile at [https://github.com/MuqtadirBillah](https:/
 
 <h2>RECENT PROJECTS</h2>
 
-<h5>Xharptech</h5>
+<h3>Xharptech</h3>
 <img src="https://xharptech.com/assets/images/logo.png" />
 Link: <a target="_blank" href="https://xharptech.com/">Xharptech</a>
 <h5>Technologies</h5>
@@ -44,7 +44,7 @@ Link: <a target="_blank" href="https://xharptech.com/">Xharptech</a>
   <li>Emailjs</li>
 </ol>
 <hr />
-<h5>SunGrid</h5>
+<h3>SunGrid</h3>
 <img src="https://sun-grid.com/assets/images/og.png" />
 Link: <a target="_blank" href="https://sun-grid.com">SunGrid</a>
 <h5>Technologies</h5>
@@ -55,7 +55,7 @@ Link: <a target="_blank" href="https://sun-grid.com">SunGrid</a>
   <li>MySQL</li>
 </ol>
 <hr />
-<h5>Build Integrate</h5>
+<h3>Build Integrate</h3>
 <img src="https://buildintegrate.com/assets/images/og.png" />
 Link: <a target="_blank" href="https://buildintegrate.com">Build Integrate</a>
 <h5>Technologies</h5>
@@ -66,7 +66,7 @@ Link: <a target="_blank" href="https://buildintegrate.com">Build Integrate</a>
   <li>MySQL</li>
 </ol>
 <hr />
-<h5>Restaurant Management System</h5>
+<h3>Restaurant Management System</h3>
 <img src="https://restaurantv2.vercel.app/assets/images/og.png" />
 Link: <a target="_blank" href="https://restaurantv2.vercel.app">Felicio</a>
 <h5>Technologies</h5>
@@ -77,7 +77,7 @@ Link: <a target="_blank" href="https://restaurantv2.vercel.app">Felicio</a>
   <li>MySQL</li>
 </ol>
 <hr />
-<h5>Grade Tuition Academy</h5>
+<h3>Grade Tuition Academy</h3>
 <img src="https://www.gradetuitionacademy.com/assets/images/og.png" />
 Link: <a target="_blank" href="https://www.gradetuitionacademy.com">Grade Tuition Academy</a>
 <h5>Technologies</h5>
@@ -88,7 +88,7 @@ Link: <a target="_blank" href="https://www.gradetuitionacademy.com">Grade Tuitio
   <li>MySQL</li>
 </ol>
 
-<h5>Bayer</h5>
+<h3>Bayer</h3>
 <img src="https://i.hurimg.com/i/hdn/75/0x0/6229d8b84e3fe125a0c31a57.jpg" width="200px" />
 <p>Bayer AG is a German multinational pharmaceutical and life sciences company and one of the largest pharmaceutical companies in the world. Headquartered in Leverkusen, Bayer's areas of business include pharmaceuticals; consumer healthcare products, agricultural chemicals, seeds and biotechnology products.</p>
 <p><b>Products:</b></p>
