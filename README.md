@@ -110,20 +110,6 @@ Link: <a target="_blank" href="https://www.gradetuitionacademy.com">Grade Tuitio
   </li>
 </ol>
 
-<br />
-<br />
-
-<h2>Fiverr Profile</h2>
-<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
-<table>
-  <tr>
-    <td style='width: 50%;'>
-      <div>
-      </div>
-    </td>
-  </tr>
-</table>
-
 
 <br />
 <br />
