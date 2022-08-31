@@ -34,6 +34,17 @@ You can visit my LinkedIn profile at [https://github.com/MuqtadirBillah](https:/
 
 <h2>RECENT PROJECTS</h2>
 
+<h3>Grade Tuition Academy</h3>
+<img src="https://www.gradetuitionacademy.com/assets/images/og.png" />
+Link: <a target="_blank" href="https://www.gradetuitionacademy.com">Grade Tuition Academy</a>
+<h5>Technologies</h5>
+<ol>
+  <li>Next.js</li>
+  <li>React.js</li>
+  <li>Node.js</li>
+  <li>MySQL</li>
+</ol>
+<hr />
 <h3>Xharptech</h3>
 <img src="https://xharptech.com/assets/images/logo.png" />
 Link: <a target="_blank" href="https://xharptech.com/">Xharptech</a>
@@ -77,16 +88,6 @@ Link: <a target="_blank" href="https://restaurantv2.vercel.app">Felicio</a>
   <li>MySQL</li>
 </ol>
 <hr />
-<h3>Grade Tuition Academy</h3>
-<img src="https://www.gradetuitionacademy.com/assets/images/og.png" />
-Link: <a target="_blank" href="https://www.gradetuitionacademy.com">Grade Tuition Academy</a>
-<h5>Technologies</h5>
-<ol>
-  <li>Next.js</li>
-  <li>React.js</li>
-  <li>Node.js</li>
-  <li>MySQL</li>
-</ol>
 
 <h3>Bayer</h3>
 <img src="https://i.hurimg.com/i/hdn/75/0x0/6229d8b84e3fe125a0c31a57.jpg" width="200px" />
