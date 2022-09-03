@@ -8,7 +8,6 @@
 <img align="left" alt="Muqtadir Billah" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <br />
-[![GitHub Views](https://komarev.com/ghpvc/?username=MuqtadirBillah&color=blue)][1]
 <br />
 
 <h2>About:</h2>
@@ -116,6 +115,8 @@ Link: <a target="_blank" href="https://restaurantv2.vercel.app">Felicio</a>
 <br />
 
 <h3>Profile Analytics</h3>
+
+[![GitHub Views](https://komarev.com/ghpvc/?username=MuqtadirBillah&color=blue)][1]
 
 ![Muqtadir's github stats](https://github-readme-stats.vercel.app/api?username=muqtadirbillah&show_icons=true&hide_border=true)
 
