@@ -116,7 +116,7 @@ Link: <a target="_blank" href="https://restaurantv2.vercel.app">Felicio</a>
 
 <h3>Profile Analytics</h3>
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=MuqtadirBillah&color=blue)
+![GitHub Views](https://komarev.com/ghpvc/?username=MuqtadirBillah&color=blue)
 
 ![Muqtadir's github stats](https://github-readme-stats.vercel.app/api?username=muqtadirbillah&show_icons=true&hide_border=true)
 
