@@ -5,7 +5,7 @@
 <img align="left" alt="Muqtadir Billah" width="22px" src="https://i.postimg.cc/kgRPwJM2/linkedin.png" />
 </a>
 <a href="https://abbasimusab2000.medium.com/">
-<img align="left" alt="Muqtadir Billah" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+<img align="left" alt="Muqtadir Billah" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg](https://i.postimg.cc/Kv46vGM0/medium.png)" />
 </a>
 <br />
 <br />
