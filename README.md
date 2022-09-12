@@ -45,6 +45,7 @@ Link: <a target="_blank" href="https://www.gradetuitionacademy.com">Grade Tuitio
   <li>React.js</li>
   <li>Node.js</li>
   <li>MySQL</li>
+  <li>Firebase</li>
 </ol>
 <hr />
 <h3>Xharptech</h3>
