@@ -29,7 +29,6 @@ You can visit my LinkedIn profile at [https://www.linkedin.com/in/muqtadir-billa
 - 🤔 I’m looking for help with MERN stack
 - 💬 Ask me about web development
 - 📫 How to reach me: email me at abbasimuqtadir@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ I am also learning Digital Art! You can check me Art on my Instagram <a href="https://www.instagram.com/muqtadirbillahmusab/">Instagram</a>
 
 <br />
