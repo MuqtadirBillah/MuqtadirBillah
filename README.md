@@ -58,8 +58,8 @@ Link: <a target="_blank" href="https://xharptech.com/">Xharptech</a>
 </ol>
 <hr />
 <h3>SunGrid</h3>
-<img src="https://sun-grid.com/assets/images/og.png" />
-Link: <a target="_blank" href="https://sun-grid.com">SunGrid</a>
+<img src="https://www.sun-grid.com/assets/images/og.png" />
+Link: <a target="_blank" href="https://www.sun-grid.com">SunGrid</a>
 <h5>Technologies</h5>
 <ol>
   <li>Next.js</li>
