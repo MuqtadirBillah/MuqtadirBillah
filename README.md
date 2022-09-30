@@ -24,9 +24,8 @@ I work as a Full-time website developer and in my leisure time, I freelance on m
 You can visit my <a href="https://www.linkedin.com/in/muqtadir-billah-musab-abbasi/">LinkedIn profile</a>. Alternatively you also send me an email at <a href="mailto:abbasimuqtadir@gmail.com">abbasimuqtadir@gmail.com</a>
 
 - 🔭 I’m currently working as a Website Developer
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning & practicing MERN Stack development
 - 👯 I’m looking to collaborate on Website Development projects
-- 🤔 I’m looking for help with MERN stack
 - 💬 Ask me about web development
 - 📫 How to reach me: email me at abbasimuqtadir@gmail.com
 - ⚡ I am also learning Digital Art! You can check me Art on my Instagram <a href="https://www.instagram.com/muqtadirbillahmusab/">Instagram</a>
