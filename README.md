@@ -67,6 +67,7 @@ Link: <a target="_blank" href="https://www.sun-grid.com">SunGrid</a>
   <li>Next.js</li>
   <li>React.js</li>
   <li>Node.js</li>
+  <li>MongoDB</li>
   <li>MySQL</li>
 </ol>
 <hr />
