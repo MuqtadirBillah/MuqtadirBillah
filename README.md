@@ -12,6 +12,9 @@ Welcome to my GitHub 👋
 <a href="https://dev-muqtadir-billah.vercel.app/" style="background-color: white, color: black"><button>💻 Portfolio Website</button></a>
 <br />
 <br />
+🚀Fullstack Developer | 🟢 Node.js | 💻 Express.js | ⭕ React.js & Next.js | 📄 MongoDB & MySQL
+<br />
+<br />
 
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=MuqtadirBillah&color=blue)
