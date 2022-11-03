@@ -34,7 +34,7 @@ You can visit my <a href="https://www.linkedin.com/in/muqtadir-billah-musab-abba
 - 👯 I’m looking to collaborate on Website Development projects
 - 💬 Ask me about web development
 - 📫 How to reach me: email me at abbasimuqtadir@gmail.com
-- ⚡ I am also learning Digital Art! You can check me Art on my Instagram <a href="https://www.instagram.com/muqtadirbillahmusab/">Instagram</a>
+- ⚡ I am also practiced Digital Art as a hobby! You can check me Art on my Instagram <a href="https://www.instagram.com/muqtadirbillahmusab/">Instagram</a>
 
 <br />
 
