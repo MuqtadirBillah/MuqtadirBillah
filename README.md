@@ -37,6 +37,7 @@ You can visit my <a href="https://www.linkedin.com/in/muqtadir-billah-musab-abba
 - ⚡ I am also practiced Digital Art as a hobby! You can check me Art on my Instagram <a href="https://www.instagram.com/muqtadirbillahmusab/">Instagram</a>
 
 <br />
+<hr />
 
 <h2>RECENT PROJECTS</h2>
 
