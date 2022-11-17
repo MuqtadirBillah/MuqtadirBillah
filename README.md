@@ -12,7 +12,7 @@ Welcome to my GitHub 👋
 <a href="https://dev-muqtadir-billah.vercel.app/" target="_blank" style="background-color: white, color: black"><button>💻 Portfolio Website</button></a>
 <br />
 <br />
-🚀Fullstack Developer | ⭕ React.js & Next.js | 🟢 Node.js | 💻 Express.js | 🐍 Python (Flask/Django) | 📄 MongoDB & MySQL
+🚀 Fullstack Developer | ⭕ React.js & Next.js | 🟢 Node.js | 💻 Express.js | 🐍 Python (Flask/Django) | 📄 MongoDB & MySQL
 <br />
 <br />
 
