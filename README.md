@@ -43,7 +43,7 @@ You can visit my <a href="https://www.linkedin.com/in/muqtadir-billah-musab-abba
 
 <h3>Voiiice.io</h3>
 <img src="https://voiiice.io/" />
-Link: <a target="_blank" href="[https://www.gradetuitionacademy.com](https://voiiice.io/)">Voiiice</a>
+Link: <a target="_blank" href="https://voiiice.io/">Voiiice</a>
 <h5>Technologies</h5>
 <ol>
   <li>React.js</li>
