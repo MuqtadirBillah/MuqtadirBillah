@@ -41,6 +41,18 @@ You can visit my <a href="https://www.linkedin.com/in/muqtadir-billah-musab-abba
 
 <h2>RECENT PROJECTS</h2>
 
+<h3>Voiiice.io</h3>
+<img src="https://voiiice.io/" />
+Link: <a target="_blank" href="[https://www.gradetuitionacademy.com](https://voiiice.io/)">Voiiice</a>
+<h5>Technologies</h5>
+<ol>
+  <li>React.js</li>
+  <li>Node.js</li>
+  <li>MongoDB</li>
+  <li>Stripe</li>
+  <li>Cloudinary</li>
+</ol>
+<hr />
 <h3>Grade Tuition Academy</h3>
 <img src="https://www.gradetuitionacademy.com/assets/images/og.png" />
 Link: <a target="_blank" href="https://www.gradetuitionacademy.com">Grade Tuition Academy</a>
