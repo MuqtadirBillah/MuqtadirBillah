@@ -1,6 +1,5 @@
 Welcome to my GitHub 👋
 
-[![Title](Image URL)](https://dev-muqtadir-billah.vercel.app/)
 
 <a href="https://www.linkedin.com/in/muqtadir-billah-musab-abbasi/">
 <img align="left" alt="Muqtadir Billah" width="22px" src="https://i.postimg.cc/kgRPwJM2/linkedin.png" />
