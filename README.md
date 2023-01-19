@@ -42,7 +42,7 @@ You can visit my <a href="https://www.linkedin.com/in/muqtadir-billah-musab-abba
 <h2>RECENT PROJECTS</h2>
 
 <h3>ShortForm</h3>
-<img src="https://i.postimg.cc/zfSwGDTx/voiiice.png" />
+<img src="https://i.postimg.cc/yYKqWm4z/Capture.png" />
 Link: <a target="_blank" href="https://shortformagent.com/">ShortForm</a>
 <h5>Technologies</h5>
 <ol>
