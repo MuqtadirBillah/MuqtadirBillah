@@ -54,7 +54,7 @@ You can visit my <a href="https://www.linkedin.com/in/muqtadir-billah-musab-abba
 
 <h3>Digital Ascendent</h3>
 <img src="https://digital-ascendent.vercel.app/assets/images/ogUpdated.png" />
-Link: <a target="_blank" href="https://digital-ascendent.vercel.app">Digital Ascendent</a>
+Link: <a target="_blank" href="https://www.digitalascendent.com">Digital Ascendent</a>
 <h5>Technologies</h5>
 <ol>
   <li>Next.js</li>
