@@ -52,6 +52,15 @@ You can visit my <a href="https://www.linkedin.com/in/muqtadir-billah-musab-abba
 
 <h2>RECENT PROJECTS</h2>
 
+<h3>MagMajick</h3>
+<img src="https://www.magmajick.com/assets/images/og.png" />
+Link: <a target="_blank" href="https://www.magmajick.com">MagMajick</a>
+<h5>Technologies</h5>
+<ol>
+  <li>Next.js</li>
+</ol>
+<hr />
+
 <h3>Digital Ascendent</h3>
 <img src="https://digital-ascendent.vercel.app/assets/images/ogUpdated.png" />
 Link: <a target="_blank" href="https://www.digitalascendent.com">Digital Ascendent</a>
