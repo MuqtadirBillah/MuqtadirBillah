@@ -148,7 +148,7 @@ Link: <a target="_blank" href="https://restaurantv2.vercel.app">Felicio</a>
 <hr />
 
 <h3>Bayer</h3>
-<img src="https://www.bayer.com/sites/default/files/2020-11/Bayer_cross_in_Shanghai_1-min.jpg" width="100%" />
+<img src="https://career.bayer.com/sites/g/files/kmftyc1291/files/bayer-logo-image.png" width="100%" />
 <p>Bayer AG is a German multinational pharmaceutical and life sciences company and one of the largest pharmaceutical companies in the world. Headquartered in Leverkusen, Bayer's areas of business include pharmaceuticals; consumer healthcare products, agricultural chemicals, seeds and biotechnology products.</p>
 <p><b>Products:</b></p>
 <ol>
