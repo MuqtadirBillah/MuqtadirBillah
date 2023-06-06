@@ -52,6 +52,18 @@ You can visit my <a href="https://www.linkedin.com/in/muqtadir-billah-musab-abba
 
 <h2>RECENT PROJECTS</h2>
 
+<h3>26Software Gold</h3>
+<img src="https://www.the26software.com/assets/images/og/og.jpg" />
+Link: <a target="_blank" href="https://www.the26software.com">26Software</a>
+<h5>Technologies</h5>
+<ol>
+  <li>Next.js</li>
+  <li>Node.js</li>
+  <li>Express.js</li>
+  <li>MySQL</li>
+</ol>
+<hr />
+
 <h3>Aberdeen Gold</h3>
 <img src="https://i.postimg.cc/9f5JW8cj/aberdeengold.png" />
 Link: <a target="_blank" href="https://aberdeengold.vercel.app">Aberdeen Gold</a>
