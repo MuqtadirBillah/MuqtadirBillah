@@ -65,7 +65,7 @@ Link: <a target="_blank" href="https://aberdeengold.vercel.app">Aberdeen Gold</a
 <hr />
 
 <h3>Digital Ascendent</h3>
-<img src="https://digital-ascendent.vercel.app/assets/images/ogUpdated.png" />
+<img src="https://www.digitalascendent.com/assets/images/ogUpdated.png" />
 Link: <a target="_blank" href="https://www.digitalascendent.com">Digital Ascendent</a>
 <h5>Technologies</h5>
 <ol>
