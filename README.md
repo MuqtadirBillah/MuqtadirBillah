@@ -53,7 +53,7 @@ You can visit my <a href="https://www.linkedin.com/in/muqtadir-billah-musab-abba
 <h2>RECENT PROJECTS</h2>
 
 <h3>26Software</h3>
-<img src="https://www.the26software.com/assets/images/og/og.jpg" />
+<img src="https://i.postimg.cc/YCTc0zF1/home.jpg" />
 Link: <a target="_blank" href="https://www.the26software.com">26Software</a>
 <h5>Technologies</h5>
 <ol>
