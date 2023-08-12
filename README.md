@@ -47,17 +47,30 @@ You can visit my <a href="https://www.linkedin.com/in/muqtadir-billah-musab-abba
 - ⚡ I am also practiced Digital Art as a hobby! You can check me Art on my Instagram <a href="https://www.instagram.com/muqtadirbillahmusab/">Instagram</a>
 
 <br />
-<hr />
+<div style="background-color: #282828; padding-bottom: 20px;">
+    <h2 style="text-align: center; background-color: #282828; padding-top: 20px; padding-bottom: 20px; color: white; border: 1px solid #61CE70;">PROJECTS</h2>
+    <h2 style="color: #61CE70; text-align: center;">Custom Websites</h2>
+    <h1 style="color: #282828; text-align: center;">Custom websites made with core coding from scratch</h1>
+    <hr style="width: 60%; margin: 0 auto;" />
+</div>
 
-<h2>RECENT PROJECTS</h2>
-
-<table style="width: 100%; border: 0;">
-    <tr>
-        <td>
-            <tr>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/XhDvWy_vYJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                <img src="" alt="">
-            </tr>
+<table style="width: 100%; border: 0; border-spacing: 0 !important;">
+    <tr style="border: 0;">
+        <td style="background-color: #282828; padding: 20px; width: 20%; text-align: center; border: 0;">
+            <h2 style="color: white;">Hulm Solutions</h2>
+            <img src="https://i.postimg.cc/x8zq3393/hulm-Solutions.jpg" style="width: 100%;" alt="">
+        </td>
+        <td style="background-color: #282828; padding: 20px; width: 20%; text-align: center; border: 0;">
+            <h2 style="color: white;">Hulm Solutions</h2>
+            <img src="https://i.postimg.cc/x8zq3393/hulm-Solutions.jpg" style="width: 100%;" alt="">
+        </td>
+        <td style="background-color: #282828; padding: 20px; width: 20%; text-align: center; border: 0;">
+            <h2 style="color: white;">Hulm Solutions</h2>
+            <img src="https://i.postimg.cc/x8zq3393/hulm-Solutions.jpg" style="width: 100%;" alt="">
+        </td>
+        <td style="background-color: #282828; padding: 20px; width: 20%; text-align: center; border: 0;">
+            <h2 style="color: white;">Hulm Solutions</h2>
+            <img src="https://i.postimg.cc/x8zq3393/hulm-Solutions.jpg" style="width: 100%;" alt="">
         </td>
     </tr>
 </table>
