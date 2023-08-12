@@ -51,146 +51,16 @@ You can visit my <a href="https://www.linkedin.com/in/muqtadir-billah-musab-abba
 
 <h2>RECENT PROJECTS</h2>
 
-<h3>26Software</h3>
-<img src="https://i.postimg.cc/YCTc0zF1/home.jpg" />
-Link: <a target="_blank" href="https://www.the26software.com">26Software</a>
-<h5>Technologies</h5>
-<ol>
-  <li>Next.js</li>
-  <li>Node.js</li>
-  <li>Express.js</li>
-  <li>MySQL</li>
-</ol>
-<hr />
-
-<h3>Aberdeen Gold</h3>
-<img src="https://i.postimg.cc/9f5JW8cj/aberdeengold.png" />
-Link: <a target="_blank" href="https://aberdeengold.vercel.app">Aberdeen Gold</a>
-<h5>Technologies</h5>
-<ol>
-  <li>Next.js</li>
-  <li>Node.js</li>
-  <li>Express.js</li>
-  <li>Mongodb</li>
-</ol>
-<hr />
-
-<h3>Digital Ascendent</h3>
-<img src="https://www.digitalascendent.com/assets/images/ogUpdated.png" />
-Link: <a target="_blank" href="https://www.digitalascendent.com">Digital Ascendent</a>
-<h5>Technologies</h5>
-<ol>
-  <li>Next.js</li>
-</ol>
-<hr />
-
-<h3>MagMajick</h3>
-<img src="https://www.magmajick.com/assets/images/og.png" />
-Link: <a target="_blank" href="https://www.magmajick.com">MagMajick</a>
-<h5>Technologies</h5>
-<ol>
-  <li>Next.js</li>
-</ol>
-<hr />
-
-<h3>ShortForm</h3>
-<img src="https://shortformagent.com/assets/images/shortform.png" />
-Link: <a target="_blank" href="https://shortformagent.com/">ShortForm</a>
-<h5>Technologies</h5>
-<ol>
-  <li>Next.js</li>
-  <li>Email.js</li>
-</ol>
-<hr />
-<h3>Voiiice.io</h3>
-<img src="https://i.postimg.cc/zfSwGDTx/voiiice.png" />
-Link: <a target="_blank" href="https://voiiice.io/">Voiiice</a>
-<h5>Technologies</h5>
-<ol>
-  <li>React.js</li>
-  <li>Node.js</li>
-  <li>MongoDB</li>
-  <li>Stripe</li>
-  <li>Cloudinary</li>
-</ol>
-<hr />
-<h3>Grade Tuition Academy</h3>
-<img src="https://www.gradetuitionacademy.com/assets/images/og.png" />
-Link: <a target="_blank" href="https://www.gradetuitionacademy.com">Grade Tuition Academy</a>
-<h5>Technologies</h5>
-<ol>
-  <li>Next.js</li>
-  <li>React.js</li>
-  <li>Node.js</li>
-  <li>MySQL</li>
-  <li>Firebase</li>
-</ol>
-<hr />
-<h3>Xharptech</h3>
-<img src="https://xharptech.com/assets/images/logo.png" />
-Link: <a target="_blank" href="https://xharptech.com/">Xharptech</a>
-<h5>Technologies</h5>
-<ol>
-  <li>React.js</li>
-  <li>Firebase</li>
-  <li>Emailjs</li>
-</ol>
-<hr />
-<h3>SunGrid</h3>
-<img src="https://www.sun-grid.com/assets/images/og.png" />
-Link: <a target="_blank" href="https://www.sun-grid.com">SunGrid</a>
-<h5>Technologies</h5>
-<ol>
-  <li>Next.js</li>
-  <li>React.js</li>
-  <li>Node.js</li>
-  <li>MySQL</li>
-</ol>
-<hr />
-<h3>Build Integrate</h3>
-<img src="https://buildintegrate.com/assets/images/og.png" />
-Link: <a target="_blank" href="https://buildintegrate.com">Build Integrate</a>
-<h5>Technologies</h5>
-<ol>
-  <li>Next.js</li>
-  <li>React.js</li>
-  <li>Node.js</li>
-  <li>MySQL</li>
-</ol>
-<hr />
-<h3>Restaurant Management System</h3>
-<img src="https://restaurantv2.vercel.app/assets/images/og.png" />
-Link: <a target="_blank" href="https://restaurantv2.vercel.app">Felicio</a>
-<h5>Technologies</h5>
-<ol>
-  <li>Next.js</li>
-  <li>React.js</li>
-  <li>Node.js</li>
-  <li>MySQL</li>
-</ol>
-<hr />
-
-<h3>Bayer</h3>
-<img src="https://career.bayer.com/sites/g/files/kmftyc1291/files/bayer-logo-image.png" width="100%" />
-<p>Bayer AG is a German multinational pharmaceutical and life sciences company and one of the largest pharmaceutical companies in the world. Headquartered in Leverkusen, Bayer's areas of business include pharmaceuticals; consumer healthcare products, agricultural chemicals, seeds and biotechnology products.</p>
-<p><b>Products:</b></p>
-<ol>
-  <li>
-    <b>Berocca</b>
-    <p>Berocca is a brand of effervescent drink and vitamin tablets containing B vitamins and vitamin C, manufactured by Bayer. Berocca was originally established in Switzerland in 1969 by Roche, and is available in a number of countries worldwide.</p>
-    Project link: <a href="https://www.berocca.pk/" style="color: green;">Link</a>
-  </li>
-  <li>
-    <b>Rennie</b>
-    <p>Rennie provides fast, effective symptomatic relief from indigestion and heartburn. Heartburn and indigestion may be triggered by a number of lifestyle.</p>
-    Project link: <a href="https://www.rennie.pk/" style="color: green;">Link</a>
-  </li>
-  <li>
-    <b>Redoxon</b>
-    <p>Redoxon®'s range of supplements contain vitamins and minerals including Vitamin C, D and Zinc to help keep your immune system – your body’s natural protector – on top form.</p>
-    Project link: <a href="https://www.redoxon.pk/" style="color: green;">Link</a>
-  </li>
-</ol>
+<table style="width: 100%; border: 0;">
+    <tr>
+        <td>
+            <tr>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/XhDvWy_vYJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <img src="" alt="">
+            </tr>
+        </td>
+    </tr>
+</table>
 
 
 <br />
