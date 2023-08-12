@@ -1,4 +1,5 @@
-<div style="background: url(https://i.postimg.cc/LXT4vYWd/3d.jpg); padding: 20px; background-repeat: no-repeat; background-position: center; background-attachment: fixed; background-size: 100%;">
+```html
+<div style="width: 100%; height: 100vh; background: url(https://i.postimg.cc/LXT4vYWd/3d.jpg); padding: 20px; background-repeat: no-repeat; background-position: center; background-attachment: fixed; background-size: 100%;">
 
     <table style="background-color: #282828; width: 100%; padding: 20px; border-radius: 10px; color: white; border: 0;">
         <tr style="border: 0;">
@@ -235,3 +236,4 @@
     <hr />
 
 </div>
+```
