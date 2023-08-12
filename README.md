@@ -1,12 +1,12 @@
 <table style="background-color: #282828; width: 100%; padding: 20px; border-radius: 10px; color: white; border: 0;">
-    <tr>
-        <td>
+    <tr style="border: 0;">
+        <td style="border: 0;">
             <img
                 src="https://media.licdn.com/dms/image/C4D03AQECGh68tR-AKg/profile-displayphoto-shrink_200_200/0/1615307089509?e=1697068800&v=beta&t=aVC4Sz-eNBUpTRlik6l9jvstgeMejjXEjQuVBElYJN0"
                 style="border-radius: 50%;"
             />
         </td>
-        <td>
+        <td style="border: 0;">
             <h1>
                 Welcome to my GitHub 👋
             </h1>
@@ -15,9 +15,9 @@
     </tr>
 </table>
 
-<table>
-    <tr>
-        <td>
+<table style="border: 0;">
+    <tr style="border: 0;">
+        <td style="border: 0;">
             <a href="https://www.linkedin.com/in/muqtadir-billah-musab-abbasi/">
             <img align="left" alt="Muqtadir Billah" width="22px" src="https://i.postimg.cc/kgRPwJM2/linkedin.png" />
             </a>
