@@ -1,4 +1,4 @@
-<table style="background-color: #282828; width: 100%; padding: 20px; border-radius: 10px; color: white; border: 0;">
+<table style="background-color: white; width: 100%; padding: 20px; border-radius: 10px; color: white; border: 0;">
     <tr style="border: 0;">
         <td style="border: 0;">
             <img
