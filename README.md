@@ -2,7 +2,7 @@
   <div style="background-color: #333; color: #fff; padding: 20px; text-align: center;">
     <h1>Welcome to my GitHub 👋</h1>
     <div style="display: flex; align-items: center; margin-bottom: 20px;">
-      <img src="profile-image-url" alt="Profile Image" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 10px;">
+      <img src="https://www.digitalascendent.com/assets/images/ogUpdated.png" alt="Profile Image" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 10px;">
       <p>Fullstack Developer | React.js & Next.js | Node.js | Express.js | Python | Java | MongoDB & MySQL</p>
     </div>
   </div>
