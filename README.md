@@ -49,28 +49,65 @@ You can visit my <a href="https://www.linkedin.com/in/muqtadir-billah-musab-abba
 <br />
 <div style="background-color: #282828; padding-bottom: 20px;">
     <h2 style="text-align: center; background-color: #282828; padding-top: 20px; padding-bottom: 20px; color: white; border: 1px solid #61CE70;">PROJECTS</h2>
-    <h2 style="color: #61CE70; text-align: center;">Custom Websites</h2>
-    <h1 style="color: #282828; text-align: center;">Custom websites made with core coding from scratch</h1>
-    <hr style="width: 60%; margin: 0 auto;" />
+    <h1 style="color: white; text-align: center;">Custom Websites</h1>
+    <!-- <hr style="width: 60%; margin: 0 auto;" /> -->
 </div>
 
 <table style="width: 100%; border: 0; border-spacing: 0 !important;">
     <tr style="border: 0;">
-        <td style="background-color: #282828; padding: 20px; width: 20%; text-align: center; border: 0;">
+        <td style="background-color: #282828; padding: 20px; width: 20%; text-align: center; border: 0; padding-bottom: 20px;">
             <h2 style="color: white;">Hulm Solutions</h2>
-            <img src="https://i.postimg.cc/x8zq3393/hulm-Solutions.jpg" style="width: 100%;" alt="">
+            <img src="https://i.postimg.cc/x8zq3393/hulm-Solutions.jpg" style="width: 100%; border-radius: 5px; border: 1px solid #61CE70; box-shadow: 0 0 10px 0 black;" alt="">
         </td>
         <td style="background-color: #282828; padding: 20px; width: 20%; text-align: center; border: 0;">
-            <h2 style="color: white;">Hulm Solutions</h2>
-            <img src="https://i.postimg.cc/x8zq3393/hulm-Solutions.jpg" style="width: 100%;" alt="">
+            <h2 style="color: white;">26Software</h2>
+            <img src="https://i.postimg.cc/GhMmVppy/26software.jpg" style="width: 100%; border-radius: 5px; border: 1px solid #61CE70; box-shadow: 0 0 10px 0 black;" alt="">
         </td>
         <td style="background-color: #282828; padding: 20px; width: 20%; text-align: center; border: 0;">
-            <h2 style="color: white;">Hulm Solutions</h2>
-            <img src="https://i.postimg.cc/x8zq3393/hulm-Solutions.jpg" style="width: 100%;" alt="">
+            <h2 style="color: white;">Digital Ascendent</h2>
+            <img src="https://i.postimg.cc/d06Hmg6w/Digital-Ascendent.jpg" style="width: 100%; border-radius: 5px; border: 1px solid #61CE70; box-shadow: 0 0 10px 0 black;" alt="">
+        </td>
+    </tr>
+    <tr style="border: 0;">
+        <td style="background-color: #282828; padding: 20px; width: 20%; text-align: center; border: 0; padding-bottom: 20px;">
+            <h2 style="color: white;">ShortForm - Marketing Agency</h2>
+            <img src="https://i.postimg.cc/59XJym96/shortform.jpg" style="width: 100%; border-radius: 5px; border: 1px solid #61CE70; box-shadow: 0 0 10px 0 black;" alt="">
         </td>
         <td style="background-color: #282828; padding: 20px; width: 20%; text-align: center; border: 0;">
-            <h2 style="color: white;">Hulm Solutions</h2>
-            <img src="https://i.postimg.cc/x8zq3393/hulm-Solutions.jpg" style="width: 100%;" alt="">
+            <h2 style="color: white;">Aberdeen Gold</h2>
+            <img src="https://i.postimg.cc/Df4Vny5G/aberdeen.jpg" style="width: 100%; border-radius: 5px; border: 1px solid #61CE70; box-shadow: 0 0 10px 0 black;" alt="">
+        </td>
+        <td style="background-color: #282828; padding: 20px; width: 20%; text-align: center; border: 0;">
+            <h2 style="color: white;">Xharptech</h2>
+            <img src="https://i.postimg.cc/HWqqxDPh/xharptech.jpg" style="width: 100%; border-radius: 5px; border: 1px solid #61CE70; box-shadow: 0 0 10px 0 black;" alt="">
+        </td>
+    </tr>
+    <tr style="border: 0;">
+        <td style="background-color: #282828; padding: 20px; width: 20%; text-align: center; border: 0; padding-bottom: 20px;">
+            <h2 style="color: white;">Berocca</h2>
+            <img src="https://i.postimg.cc/wxLWwt0w/berocca.jpg" style="width: 100%; border-radius: 5px; border: 1px solid #61CE70; box-shadow: 0 0 10px 0 black;" alt="">
+        </td>
+        <td style="background-color: #282828; padding: 20px; width: 20%; text-align: center; border: 0;">
+            <h2 style="color: white;">Redoxon</h2>
+            <img src="https://i.postimg.cc/DyhxH2Nn/redoxon.jpg" style="width: 100%; border-radius: 5px; border: 1px solid #61CE70; box-shadow: 0 0 10px 0 black;" alt="">
+        </td>
+        <td style="background-color: #282828; padding: 20px; width: 20%; text-align: center; border: 0;">
+            <h2 style="color: white;">Rennie</h2>
+            <img src="https://i.postimg.cc/W1bXp5jy/rennie.jpg" style="width: 100%; border-radius: 5px; border: 1px solid #61CE70; box-shadow: 0 0 10px 0 black;" alt="">
+        </td>
+    </tr>
+    <tr style="border: 0;">
+        <td style="background-color: #282828; padding: 20px; width: 20%; text-align: center; border: 0; padding-bottom: 20px;">
+            <h2 style="color: white;">Sungrid</h2>
+            <img src="https://i.postimg.cc/ZKjxQ63x/sungrid.jpg" style="width: 100%; border-radius: 5px; border: 1px solid #61CE70; box-shadow: 0 0 10px 0 black;" alt="">
+        </td>
+        <td style="background-color: #282828; padding: 20px; width: 20%; text-align: center; border: 0;">
+            <h2 style="color: white;">24Health</h2>
+            <img src="https://i.postimg.cc/52Rq41sH/24health.jpg" style="width: 100%; border-radius: 5px; border: 1px solid #61CE70; box-shadow: 0 0 10px 0 black;" alt="">
+        </td>
+        <td style="background-color: #282828; padding: 20px; width: 20%; text-align: center; border: 0;">
+            <h2 style="color: white;">Bimmers</h2>
+            <img src="https://i.postimg.cc/v8tr15Pw/bimmers.jpg" style="width: 100%; border-radius: 5px; border: 1px solid #61CE70; box-shadow: 0 0 10px 0 black;" alt="">
         </td>
     </tr>
 </table>
