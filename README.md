@@ -1,4 +1,4 @@
-<table style="background-color: #282828; width: 100%; padding: 20px; border-radius: 10px; color: white;">
+<table style="background-color: #282828; width: 100%; padding: 20px; border-radius: 10px; color: white; border: 0;">
     <tr>
         <td>
             <img
@@ -10,6 +10,14 @@
             <h1>
                 Welcome to my GitHub 👋
             </h1>
+            🚀 Fullstack Developer | ⭕ React.js & Next.js | 🟢 Node.js | 💻 Express.js | 🐍 Python (Flask/Django) | 🚀 Java (Springboot) | 📄 MongoDB & MySQL | 🐳 Dockers | 🚢 Kubernetes
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td>
             <a href="https://www.linkedin.com/in/muqtadir-billah-musab-abbasi/">
             <img align="left" alt="Muqtadir Billah" width="22px" src="https://i.postimg.cc/kgRPwJM2/linkedin.png" />
             </a>
@@ -24,9 +32,6 @@
                     Portfolio Website
                 </button>
             </a>
-            <br />
-            <br />
-            🚀 Fullstack Developer | ⭕ React.js & Next.js | 🟢 Node.js | 💻 Express.js | 🐍 Python (Flask/Django) | 🚀 Java (Springboot) | 📄 MongoDB & MySQL | 🐳 Dockers | 🚢 Kubernetes
             <br />
             <br />
             ![GitHub Views](https://komarev.com/ghpvc/?username=MuqtadirBillah&color=blue)
