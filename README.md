@@ -1,32 +1,229 @@
-<div style="font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f5f5f5;">
-    <table style="width: 100%; background-color: #333; color: #fff; padding: 20px; text-align: center;">
-      <tr>
+<table style="background-color: #282828; width: 100%; padding: 20px; border-radius: 10px; color: white;">
+    <tr>
         <td>
-          <h1>Welcome to my GitHub 👋</h1>
-          <div style="display: flex; align-items: center; margin-bottom: 20px;">
-            <img src="https://media.licdn.com/dms/image/C4D03AQECGh68tR-AKg/profile-displayphoto-shrink_200_200/0/1615307089509?e=1697068800&v=beta&t=aVC4Sz-eNBUpTRlik6l9jvstgeMejjXEjQuVBElYJN0" alt="Profile Image" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 10px;">
-            <p>Fullstack Developer | React.js & Next.js | Node.js | Express.js | Python | Java | MongoDB & MySQL</p>
-          </div>
+            <img
+                src="https://media.licdn.com/dms/image/C4D03AQECGh68tR-AKg/profile-displayphoto-shrink_200_200/0/1615307089509?e=1697068800&v=beta&t=aVC4Sz-eNBUpTRlik6l9jvstgeMejjXEjQuVBElYJN0"
+                style="border-radius: 50%;"
+            />
         </td>
-      </tr>
-    </table>
-    <div style="max-width: 1200px; margin: 0 auto; padding: 20px;">
-      <h2>RECENT PROJECTS</h2>
-      <table style="width: 100%;">
-        <tr>
-          <td style="background-color: #fff; border: 1px solid #ddd; padding: 20px; margin: 10px 0; width: calc(33.33% - 20px);">
-            <img src="https://www.digitalascendent.com/assets/images/ogUpdated.png" alt="Project Image" style="width: 100%; height: auto;">
-            <h3>Project Title</h3>
-            <h5>Technologies</h5>
-            <ul>
-              <li>Technology 1</li>
-              <li>Technology 2</li>
-              <!-- Add more technologies as needed -->
-            </ul>
-            <a href="project-url" target="_blank" style="display: inline-block; margin-top: 10px; background-color: #333; color: #fff; padding: 8px 12px; text-decoration: none; border-radius: 4px;">View Project</a>
-          </td>
-          <!-- Repeat the project structure for each project -->
-        </tr>
-      </table>
-    </div>
-</div>
+        <td>
+            <h1>
+                Welcome to my GitHub 👋
+            </h1>
+            <a href="https://www.linkedin.com/in/muqtadir-billah-musab-abbasi/">
+            <img align="left" alt="Muqtadir Billah" width="22px" src="https://i.postimg.cc/kgRPwJM2/linkedin.png" />
+            </a>
+            <a href="https://abbasimusab2000.medium.com/">
+            <img align="left" alt="Muqtadir Billah" width="22px" src="https://i.postimg.cc/Kv46vGM0/medium.png" />
+            </a>
+            <br />
+            <br />
+            <a href="https://dev-muqtadir-billah.vercel.app/" target="_blank">
+                <button style="background-color: #61CE70; color: black; border: 0; padding: 5px 10px; color: white; border-radius: 2px; font-size: medium;">
+                    <!-- 💻  -->
+                    Portfolio Website
+                </button>
+            </a>
+            <br />
+            <br />
+            🚀 Fullstack Developer | ⭕ React.js & Next.js | 🟢 Node.js | 💻 Express.js | 🐍 Python (Flask/Django) | 🚀 Java (Springboot) | 📄 MongoDB & MySQL | 🐳 Dockers | 🚢 Kubernetes
+            <br />
+            <br />
+            ![GitHub Views](https://komarev.com/ghpvc/?username=MuqtadirBillah&color=blue)
+        </td>
+    </tr>
+</table>
+
+
+
+
+
+<h2>About:</h2>
+
+As a computer science graduate with 2 years of professional experience in software development, I am a specialist in technologies such as React.js, Node.js, Next.js, Python Django, Flask, MySQL, and MongoDB, as well as Docker and Kubernetes. These technologies allow me to deliver top-notch web applications that can meet the specific needs of businesses in the fast-paced digital landscape.
+
+React.js, for instance, enables me to create interactive and user-friendly interfaces that can improve customer engagement and provide a seamless experience. With Node.js, I can build fast and reliable network applications that can handle large amounts of data and ensure quick response times.
+
+Next.js provides a framework for server-side rendering, ensuring optimized performance and quick delivery of content. My experience in Python Django and Flask allows me to develop powerful back-end systems that can handle complex business logic and secure data storage.
+
+Additionally, my expertise in databases such as MySQL and MongoDB enables me to design and implement efficient data management solutions that can scale with the growth of a business. And with my knowledge of Docker and Kubernetes, I can manage and deploy applications in a cost-effective and streamlined manner.
+
+With my skills and expertise, I offer the following services to businesses:
+
+Web application development using React.js, Node.js, Next.js, Python Django, and Flask
+Database design and implementation with MySQL and MongoDB
+Docker and Kubernetes application deployment and management
+Server-side rendering and performance optimization with Next.js
+Back-end system development with Python Django and Flask.
+I am also available for freelance projects on Fiverr, Upwork, and PeoplePerHour, where I offer the same high-quality services to clients from all over the world.
+
+You can visit my <a href="https://www.linkedin.com/in/muqtadir-billah-musab-abbasi/">LinkedIn profile</a>. Alternatively you also send me an email at <a href="mailto:abbasimuqtadir@gmail.com">abbasimuqtadir@gmail.com</a>
+
+- 🔭 I’m currently working as a Website Developer
+- 🌱 I’m currently learning & practicing MERN Stack development
+- 👯 I’m looking to collaborate on Website Development projects
+- 💬 Ask me about web development
+- 📫 How to reach me: email me at abbasimuqtadir@gmail.com
+- ⚡ I am also practiced Digital Art as a hobby! You can check me Art on my Instagram <a href="https://www.instagram.com/muqtadirbillahmusab/">Instagram</a>
+
+<br />
+<hr />
+
+<h2>RECENT PROJECTS</h2>
+
+<h3>26Software</h3>
+<img src="https://i.postimg.cc/YCTc0zF1/home.jpg" />
+Link: <a target="_blank" href="https://www.the26software.com">26Software</a>
+<h5>Technologies</h5>
+<ol>
+  <li>Next.js</li>
+  <li>Node.js</li>
+  <li>Express.js</li>
+  <li>MySQL</li>
+</ol>
+<hr />
+
+<h3>Aberdeen Gold</h3>
+<img src="https://i.postimg.cc/9f5JW8cj/aberdeengold.png" />
+Link: <a target="_blank" href="https://aberdeengold.vercel.app">Aberdeen Gold</a>
+<h5>Technologies</h5>
+<ol>
+  <li>Next.js</li>
+  <li>Node.js</li>
+  <li>Express.js</li>
+  <li>Mongodb</li>
+</ol>
+<hr />
+
+<h3>Digital Ascendent</h3>
+<img src="https://www.digitalascendent.com/assets/images/ogUpdated.png" />
+Link: <a target="_blank" href="https://www.digitalascendent.com">Digital Ascendent</a>
+<h5>Technologies</h5>
+<ol>
+  <li>Next.js</li>
+</ol>
+<hr />
+
+<h3>MagMajick</h3>
+<img src="https://www.magmajick.com/assets/images/og.png" />
+Link: <a target="_blank" href="https://www.magmajick.com">MagMajick</a>
+<h5>Technologies</h5>
+<ol>
+  <li>Next.js</li>
+</ol>
+<hr />
+
+<h3>ShortForm</h3>
+<img src="https://shortformagent.com/assets/images/shortform.png" />
+Link: <a target="_blank" href="https://shortformagent.com/">ShortForm</a>
+<h5>Technologies</h5>
+<ol>
+  <li>Next.js</li>
+  <li>Email.js</li>
+</ol>
+<hr />
+<h3>Voiiice.io</h3>
+<img src="https://i.postimg.cc/zfSwGDTx/voiiice.png" />
+Link: <a target="_blank" href="https://voiiice.io/">Voiiice</a>
+<h5>Technologies</h5>
+<ol>
+  <li>React.js</li>
+  <li>Node.js</li>
+  <li>MongoDB</li>
+  <li>Stripe</li>
+  <li>Cloudinary</li>
+</ol>
+<hr />
+<h3>Grade Tuition Academy</h3>
+<img src="https://www.gradetuitionacademy.com/assets/images/og.png" />
+Link: <a target="_blank" href="https://www.gradetuitionacademy.com">Grade Tuition Academy</a>
+<h5>Technologies</h5>
+<ol>
+  <li>Next.js</li>
+  <li>React.js</li>
+  <li>Node.js</li>
+  <li>MySQL</li>
+  <li>Firebase</li>
+</ol>
+<hr />
+<h3>Xharptech</h3>
+<img src="https://xharptech.com/assets/images/logo.png" />
+Link: <a target="_blank" href="https://xharptech.com/">Xharptech</a>
+<h5>Technologies</h5>
+<ol>
+  <li>React.js</li>
+  <li>Firebase</li>
+  <li>Emailjs</li>
+</ol>
+<hr />
+<h3>SunGrid</h3>
+<img src="https://www.sun-grid.com/assets/images/og.png" />
+Link: <a target="_blank" href="https://www.sun-grid.com">SunGrid</a>
+<h5>Technologies</h5>
+<ol>
+  <li>Next.js</li>
+  <li>React.js</li>
+  <li>Node.js</li>
+  <li>MySQL</li>
+</ol>
+<hr />
+<h3>Build Integrate</h3>
+<img src="https://buildintegrate.com/assets/images/og.png" />
+Link: <a target="_blank" href="https://buildintegrate.com">Build Integrate</a>
+<h5>Technologies</h5>
+<ol>
+  <li>Next.js</li>
+  <li>React.js</li>
+  <li>Node.js</li>
+  <li>MySQL</li>
+</ol>
+<hr />
+<h3>Restaurant Management System</h3>
+<img src="https://restaurantv2.vercel.app/assets/images/og.png" />
+Link: <a target="_blank" href="https://restaurantv2.vercel.app">Felicio</a>
+<h5>Technologies</h5>
+<ol>
+  <li>Next.js</li>
+  <li>React.js</li>
+  <li>Node.js</li>
+  <li>MySQL</li>
+</ol>
+<hr />
+
+<h3>Bayer</h3>
+<img src="https://career.bayer.com/sites/g/files/kmftyc1291/files/bayer-logo-image.png" width="100%" />
+<p>Bayer AG is a German multinational pharmaceutical and life sciences company and one of the largest pharmaceutical companies in the world. Headquartered in Leverkusen, Bayer's areas of business include pharmaceuticals; consumer healthcare products, agricultural chemicals, seeds and biotechnology products.</p>
+<p><b>Products:</b></p>
+<ol>
+  <li>
+    <b>Berocca</b>
+    <p>Berocca is a brand of effervescent drink and vitamin tablets containing B vitamins and vitamin C, manufactured by Bayer. Berocca was originally established in Switzerland in 1969 by Roche, and is available in a number of countries worldwide.</p>
+    Project link: <a href="https://www.berocca.pk/" style="color: green;">Link</a>
+  </li>
+  <li>
+    <b>Rennie</b>
+    <p>Rennie provides fast, effective symptomatic relief from indigestion and heartburn. Heartburn and indigestion may be triggered by a number of lifestyle.</p>
+    Project link: <a href="https://www.rennie.pk/" style="color: green;">Link</a>
+  </li>
+  <li>
+    <b>Redoxon</b>
+    <p>Redoxon®'s range of supplements contain vitamins and minerals including Vitamin C, D and Zinc to help keep your immune system – your body’s natural protector – on top form.</p>
+    Project link: <a href="https://www.redoxon.pk/" style="color: green;">Link</a>
+  </li>
+</ol>
+
+
+<br />
+<br />
+
+<h3>Profile Analytics</h3>
+
+![GitHub Views](https://komarev.com/ghpvc/?username=MuqtadirBillah&color=blue)
+
+![Muqtadir's github stats](https://github-readme-stats.vercel.app/api?username=muqtadirbillah&show_icons=true&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuqtadirBillah&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr />
+<hr />
+
