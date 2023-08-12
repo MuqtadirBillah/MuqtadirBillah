@@ -11,7 +11,7 @@
       <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
         <!-- Repeat the following project structure for each project -->
         <div style="background-color: #fff; border: 1px solid #ddd; padding: 20px; margin: 10px 0; flex-basis: calc(33.33% - 20px);">
-          <img src="project-image-url" alt="Project Image" style="width: 100%; height: auto;">
+          <img src="https://www.digitalascendent.com/assets/images/ogUpdated.png" alt="Project Image" style="width: 100%; height: auto;">
           <h3>Project Title</h3>
           <h5>Technologies</h5>
           <ul>
