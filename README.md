@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" xmlns="http://www.w3.org/2000/svg" style="width: 100%; height: 100%;">
     <foreignObject width="100%" height="100%">
         <div style="width: 100%; height: 100vh; background: url(https://i.postimg.cc/LXT4vYWd/3d.jpg); padding: 20px; background-repeat: no-repeat; background-position: center; background-attachment: fixed; background-size: 100%;">
 
