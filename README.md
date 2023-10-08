@@ -55,7 +55,10 @@ You can visit my <a href="https://www.linkedin.com/in/muqtadir-billah-musab-abba
 
 
 <div class="project">
-    <img src="https://www.digitalascendent.com/assets/images/portfolio/mm.jpg" style="width: 100%" />
+    <div class="profRow" style="display: flex">
+        <img src="https://www.digitalascendent.com/assets/images/portfolio/mm.jpg" style="width: 50%" />
+        <img src="https://www.digitalascendent.com/assets/images/portfolio/mm.jpg" style="width: 50%" />
+    </div>
 </div>
 
 
