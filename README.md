@@ -49,13 +49,14 @@ You can visit my <a href="https://www.linkedin.com/in/muqtadir-billah-musab-abba
 <br />
 <div style="background-color: #282828; padding-bottom: 20px;">
     <h2 style="text-align: center; background-color: #282828; padding-top: 20px; padding-bottom: 20px; color: white; border: 1px solid #61CE70;">PROJECTS</h2>
-    <h1 style="color: white; text-align: center;">Custom Websites</h1>
+    <!-- <h1 style="color: white; text-align: center;">Custom Websites</h1> -->
     <!-- <hr style="width: 60%; margin: 0 auto;" /> -->
 </div>
 
 
 <div class="project">
     <div class="profRow" style="">
+        <h3>MM Accessories</h3>
         <img src="https://www.digitalascendent.com/assets/images/portfolio/mm.jpg" width="45%;" />
         <img src="https://www.digitalascendent.com/assets/images/portfolio/mm-hover.jpg" width="45%;" />
     </div>
