@@ -53,10 +53,7 @@ You can visit my <a href="https://www.linkedin.com/in/muqtadir-billah-musab-abba
     <!-- <hr style="width: 60%; margin: 0 auto;" /> -->
 </div>
 
-![Portfolio](https://www.digitalascendent.com/portfolio)
-<iframe src="https://www.digitalascendent.com/portfolio"></iframe>
-
-<table style="width: 100%; border: 0; border-spacing: 0 !important;">
+/*<table style="width: 100%; border: 0; border-spacing: 0 !important;">
     <tr style="border: 0;">
         <td style="background-color: #282828; padding: 20px; width: 20%; text-align: center; border: 0; padding-bottom: 20px;">
             <h2 style="color: white;">Hulm Solutions</h2>
@@ -113,7 +110,7 @@ You can visit my <a href="https://www.linkedin.com/in/muqtadir-billah-musab-abba
             <img src="https://i.postimg.cc/v8tr15Pw/bimmers.jpg" style="width: 100%; border-radius: 5px; border: 1px solid #61CE70; box-shadow: 0 0 10px 0 black;" alt="">
         </td>
     </tr>
-</table>
+</table>*/
 
 
 <br />
