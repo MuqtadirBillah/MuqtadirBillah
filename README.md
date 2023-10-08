@@ -55,7 +55,7 @@ You can visit my <a href="https://www.linkedin.com/in/muqtadir-billah-musab-abba
 
 
 <div class="project">
-    <div class="profRow" style="display: flex">
+    <div class="profRow" style="display: flex; flex-direction: row; flex-direction: wrap;">
         <img src="https://www.digitalascendent.com/assets/images/portfolio/mm.jpg" style="width: 50%" />
         <img src="https://www.digitalascendent.com/assets/images/portfolio/mm.jpg" style="width: 50%" />
     </div>
