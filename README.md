@@ -54,16 +54,67 @@ You can visit my <a href="https://www.linkedin.com/in/muqtadir-billah-musab-abba
 </div>
 
 
+
 <div class="project">
     <div class="profRow" margin-bottom="10px;" style="">
         <h3>MM Accessories</h3>
         <img src="https://www.digitalascendent.com/assets/images/portfolio/mm.jpg" width="45%;" />
         <img src="https://www.digitalascendent.com/assets/images/portfolio/mm-hover.jpg" width="45%;" />
     </div>
-    <div class="profRow" style="">
-        <h3>MM Accessories</h3>
-        <img src="https://www.digitalascendent.com/assets/images/portfolio/mm.jpg" width="45%;" />
-        <img src="https://www.digitalascendent.com/assets/images/portfolio/mm-hover.jpg" width="45%;" />
+    <div class="profRow" margin-bottom="10px;" style="">
+        <h3>Aberdeen Gold</h3>
+        <img src="https://www.digitalascendent.com/assets/images/portfolio/aberdeen.jpg" width="45%;" />
+        <img src="https://www.digitalascendent.com/assets/images/portfolio/aberdeen-hover.jpg" width="45%;" />
+    </div>
+    <div class="profRow" margin-bottom="10px;" style="">
+        <h3>The 26 Software</h3>
+        <img src="https://www.digitalascendent.com/assets/images/portfolio/26.jpg" width="45%;" />
+        <img src="https://www.digitalascendent.com/assets/images/portfolio/26-hover.jpg" width="45%;" />
+    </div>
+    <div class="profRow" margin-bottom="10px;" style="">
+        <h3>Build Integrate</h3>
+        <img src="https://www.digitalascendent.com/assets/images/portfolio/bi.jpg" width="45%;" />
+        <img src="https://www.digitalascendent.com/assets/images/portfolio/bi-hover.jpg" width="45%;" />
+    </div>
+    <div class="profRow" margin-bottom="10px;" style="">
+        <h3>Felicio</h3>
+        <img src="https://www.digitalascendent.com/assets/images/portfolio/felicio.jpg" width="45%;" />
+        <img src="https://www.digitalascendent.com/assets/images/portfolio/felicio-hover.jpg" width="45%;" />
+    </div>
+    <div class="profRow" margin-bottom="10px;" style="">
+        <h3>Hulm Solutions</h3>
+        <img src="https://www.digitalascendent.com/assets/images/portfolio/hulm.jpg" width="45%;" />
+        <img src="https://www.digitalascendent.com/assets/images/portfolio/hulm-hover.jpg" width="45%;" />
+    </div>
+    <div class="profRow" margin-bottom="10px;" style="">
+        <h3>MagMajick</h3>
+        <img src="https://www.digitalascendent.com/assets/images/portfolio/mag.jpg" width="45%;" />
+        <img src="https://www.digitalascendent.com/assets/images/portfolio/mag-hover.jpg" width="45%;" />
+    </div>
+    <div class="profRow" margin-bottom="10px;" style="">
+        <h3>Xharptech</h3>
+        <img src="https://www.digitalascendent.com/assets/images/portfolio/xharptech.jpg" width="45%;" />
+        <img src="https://www.digitalascendent.com/assets/images/portfolio/xharptech-hover.jpg" width="45%;" />
+    </div>
+    <div class="profRow" margin-bottom="10px;" style="">
+        <h3>Shoplift</h3>
+        <img src="https://www.digitalascendent.com/assets/images/portfolio/shoplift.jpg" width="45%;" />
+        <img src="https://www.digitalascendent.com/assets/images/portfolio/shoplift-hover.jpg" width="45%;" />
+    </div>
+    <div class="profRow" margin-bottom="10px;" style="">
+        <h3>Shortform</h3>
+        <img src="https://www.digitalascendent.com/assets/images/portfolio/shortform.jpg" width="45%;" />
+        <img src="https://www.digitalascendent.com/assets/images/portfolio/shortform-hover.jpg" width="45%;" />
+    </div>
+    <div class="profRow" margin-bottom="10px;" style="">
+        <h3>Virtual Healthcare Agent</h3>
+        <img src="https://www.digitalascendent.com/assets/images/portfolio/vha.jpg" width="45%;" />
+        <img src="https://www.digitalascendent.com/assets/images/portfolio/vha-hover.jpg" width="45%;" />
+    </div>
+    <div class="profRow" margin-bottom="10px;" style="">
+        <h3>Grade Tuition Academy</h3>
+        <img src="https://www.digitalascendent.com/assets/images/portfolio/grade.jpg" width="45%;" />
+        <img src="https://www.digitalascendent.com/assets/images/portfolio/grade-hover.jpg" width="45%;" />
     </div>
 </div>
 
