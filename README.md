@@ -53,6 +53,8 @@ You can visit my <a href="https://www.linkedin.com/in/muqtadir-billah-musab-abba
     <!-- <hr style="width: 60%; margin: 0 auto;" /> -->
 </div>
 
+[Portfolio](https://www.digitalascendent.com/portfolio)
+
 <table style="width: 100%; border: 0; border-spacing: 0 !important;">
     <tr style="border: 0;">
         <td style="background-color: #282828; padding: 20px; width: 20%; text-align: center; border: 0; padding-bottom: 20px;">
